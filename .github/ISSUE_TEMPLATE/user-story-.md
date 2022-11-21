@@ -1,6 +1,6 @@
 ---
 name: 'User Story '
-about: " This template is creating for US"
+about: " This template is for creating US"
 title: ''
 labels: ''
 assignees: ''
